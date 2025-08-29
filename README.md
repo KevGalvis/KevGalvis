@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 ![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevgalvis&show_icons=true&theme=transparent)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kevgalvis&layout=compact&theme=transparent)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=kevgalvis&theme=dark)
